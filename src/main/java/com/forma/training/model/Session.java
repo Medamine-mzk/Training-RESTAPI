@@ -26,5 +26,5 @@
         @JoinColumn(name = "training_id")
         private Training training;
 
-        // Getters and Setters
+        // Getters and Settersj
     }
